@@ -29,6 +29,12 @@
             "item": "yogurt",
             "img": "https://i5.peapod.com/c/6I/6ILQU.png",
             "quantity": 25
+        },
+        {
+            "id": 6,
+            "item": "coffee",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/A_small_cup_of_coffee.JPG/1200px-A_small_cup_of_coffee.JPG",
+            "quantity": 100
         }
     ]
 }
