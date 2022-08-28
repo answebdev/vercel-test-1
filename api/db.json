@@ -1,0 +1,34 @@
+{
+    "food": [
+        {
+            "id": 0,
+            "item": "chocolate",
+            "img": "https://www.history.com/.image/ar_4:3%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_1200/MTc3OTk5Njc1MTU5MjI1OTY1/valentines-day-chocolate-gettyimages-923430892.jpg",
+            "quantity": 200
+        },
+        {
+            "id": 2,
+            "item": "eggs",
+            "img": "https://bluejeanchef.com/uploads/2019/04/Eggs-1280-.jpg",
+            "quantity": 2000
+        },
+        {
+            "id": 3,
+            "item": "cereal",
+            "img": "https://target.scene7.com/is/image/Target/GUEST_9d4540a9-038f-4b31-8fc5-c43f16fdd8a1?wid=488&hei=488&fmt=pjpeg",
+            "quantity": 50
+        },
+        {
+            "id": 4,
+            "item": "bagels",
+            "img": "https://cdn.apartmenttherapy.info/image/upload/f_jpg,q_auto:eco,c_fill,g_auto,w_1500,ar_1:1/k%2FPhoto%2FRecipes%2F2020-08-how-to-make-bagels%2F2020_howto_bagels_shot14_197",
+            "quantity": 500
+        },
+        {
+            "id": 5,
+            "item": "yogurt",
+            "img": "https://i5.peapod.com/c/6I/6ILQU.png",
+            "quantity": 25
+        }
+    ]
+}
